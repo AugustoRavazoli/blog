@@ -1,5 +1,7 @@
-Here you can say lots of fun things about your site.
+Olá, Augusto aqui.
 
-Maybe say a some things about yourself.
+Sou apenas um aspirante a programador que também gosta de matemática.
 
-Or maybe what you plan to blog about.
+Criei esse blog com o objetivo de registrar meus aprendizados e minhas experiências sobre computação, desenvolvimento de software e matemática.
+
+Espero que gostem!
