@@ -1,5 +1,3 @@
-![Java](../../../img/java.png)
-
 Olá, Augusto aqui. Em Java, os modificadores de acesso são palavras-chaves(keywords) que modificam o acesso a classes, métodos e propriedades. Existem 4 modificadores de acesso ao todo, são eles: `public`, `private`, `protected` e `default`. 
 
 Classes só podem receber `public` ou `default`, enquanto
