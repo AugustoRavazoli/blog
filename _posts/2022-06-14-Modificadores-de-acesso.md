@@ -7,8 +7,6 @@ são eles: `public`, `private`, `protected` e `default`.
 Classes só podem receber `public` ou `default`, enquanto
 métodos, propriedades e construtores podem receber qualquer modificador.
 
----
-
 ### Default
 
 Quando não declaramos um modificador `public`, `private` ou `protected`,
@@ -35,8 +33,6 @@ class Main {
 }
 ```
 
----
-
 ### Public
 
 O modificador `public`, torna o elemento vísivel a todas as outras classes.
@@ -58,8 +54,6 @@ class Main {
   }
 }
 ```
-
----
 
 ### Private
 
@@ -89,8 +83,6 @@ class Main {
   }
 }
 ```
-
----
 
 ### Protected
 
@@ -123,8 +115,6 @@ class Main {
   }
 }
 ```
-
----
 
 ## Conclusão
 
