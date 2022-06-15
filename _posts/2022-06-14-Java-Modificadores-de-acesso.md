@@ -1,4 +1,4 @@
-![Java](/img/java.png)
+![Java](../img/java.png)
 
 ## Java: Modificadores de acesso
 
