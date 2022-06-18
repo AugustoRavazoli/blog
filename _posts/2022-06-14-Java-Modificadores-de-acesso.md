@@ -1,3 +1,5 @@
+# Java: Modificadores de acesso
+
 Olá, Augusto aqui. Em Java, os modificadores de acesso são palavras-chaves(keywords) que modificam o acesso a classes, métodos e propriedades. Existem 4 modificadores de acesso ao todo, são eles: `public`, `private`, `protected` e `default`. 
 
 Classes só podem receber `public` ou `default`, enquanto
@@ -10,7 +12,7 @@ métodos e propriedades podem receber qualquer modificador. A seguir, o nível d
 |   Default   |  Sim  |   Sim   |    Não   |   Não  |
 |   Private   |  Sim  |   Não   |    Não   |   Não  |  
 
-### Default
+## Default
 
 Quando não declaramos um modificador `public`, `private` ou `protected`, o compilador aplica o modificador `default` por padrão. Este modificador torna o elemento apenas acessível ao package que ele pertence. Segue exemplo:
 
@@ -33,7 +35,7 @@ class Main {
 }
 ```
 
-### Public
+## Public
 
 O modificador `public`, torna o elemento vísivel a todas as outras classes.
 Segue exemplo:
@@ -55,7 +57,7 @@ class Main {
 }
 ```
 
-### Private
+## Private
 
 O modificador `private`, torna o elemento vísivel apenas a classe a qual ele pertence. Segue exemplo:
 
@@ -81,7 +83,7 @@ class Main {
 }
 ```
 
-### Protected
+## Protected
 
 O modificador `protected`, torna o elemento vísivel apenas a classe no qual pertece, suas classes filhas ou no mesmo package. Segue exemplo:
 
