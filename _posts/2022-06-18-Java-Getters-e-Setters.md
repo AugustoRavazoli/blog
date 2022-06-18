@@ -1,6 +1,6 @@
 # Java: Getters e Setters
 
-Olá, Augusto aqui. Em Java, Getters e Setters são métodos públicos criadas pelo programador para
+Olá, Augusto aqui. Em Java, Getters e Setters são métodos públicos criados pelo programador para
 acessarem e modificarem o valor de uma propriedade privada, respectivamente. 
 Por convenção, se utiliza as palavras "get" e "set" seguidos pelo nome da propriedade.
 
