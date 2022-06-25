@@ -19,8 +19,8 @@ class Main {
 ```
 
 Existem 2 tipos de constructors: 
-1 - No-Arg Constructor
-2 - Parameterized Constructor
+1. No-Arg Constructor
+2. Parameterized Constructor
 
 ## No-Arg Constructor
 
